@@ -24,10 +24,7 @@
   <img align="center" alt="Joel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
-  
-  <img align="right" alt="Joel-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFpMqGMU9Zahg/profile-displayphoto-shrink_800_800/0/1622738982767?e=1637798400&v=beta&t=QrpBkYr8HV9RM4xWOP7ETi0dLkublvvuGovBt9DF1XI">
-</div>
-  
+ 
   ##
 
   
