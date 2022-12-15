@@ -11,7 +11,7 @@
   
   <div style="display: inline_block"><br>    
     
-  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,flask,django,js,html,css,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,dart,flutter,python,flask,django,js,html,css,mysql,mongodb)](https://skillicons.dev)
     
 <div> 
   
