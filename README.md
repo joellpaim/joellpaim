@@ -1,6 +1,6 @@
 ## Hello! I am Joel Paim
 
-- 🌱 I'm currently studying Flutter, Python, Javascript, MySQL, MongoDB and Django
+- 🌱 I'm currently studying AdonisJS, Typescript, PostgreSQL and Angular
 
 
 <div align="center">
