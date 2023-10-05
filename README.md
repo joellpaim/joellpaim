@@ -11,13 +11,13 @@
   
   <div style="display: inline_block"><br>    
     
- <!-- [![My Skills](https://skillicons.dev/icons?i=angular,dart,flutter,python,flask,django,js,ts,html,css,mysql,mongodb)](https://skillicons.dev) -->
+ <!-- [![My Skills](https://skillicons.dev/icons?i=angular,dart,flutter,python,flask,django,fastapi,js,ts,html,css,mysql,mongodb)](https://skillicons.dev) -->
 
 <p align="center">Web development skills</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,adonis,nodejs,flask,django,python,go,js,ts,html,css,bootstrap,tailwind,jquery" />
+    <img src="https://skillicons.dev/icons?i=angular,adonis,fastapi,nodejs,flask,django,python,go,js,ts,html,css,bootstrap,tailwind,jquery" />
   </a>
 </p>
 
